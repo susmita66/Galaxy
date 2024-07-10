@@ -1,0 +1,6 @@
+Planet
+sun
+Star
+Meteor
+Black Hole
+
